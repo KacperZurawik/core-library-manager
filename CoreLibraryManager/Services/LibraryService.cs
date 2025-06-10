@@ -8,5 +8,9 @@ namespace CoreLibraryManager.Services
 {
     public class LibraryService
     {
+        public void AddBook()
+        {
+            
+        }
     }
 }
