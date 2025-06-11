@@ -10,7 +10,7 @@ namespace CoreLibraryManager.Services
     {
         public void AddBook()
         {
-            
+            Console.WriteLine("One more commiting test");
         }
     }
 }
