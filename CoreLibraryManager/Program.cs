@@ -11,7 +11,7 @@
                 Console.WriteLine("1. Add a new book");
                 Console.WriteLine("2. Exit");
 
-                string? menuOption = Console.ReadLine();
+                string? menuOption = Console.ReadLine(); 
 
                 switch (menuOption)
                 {
